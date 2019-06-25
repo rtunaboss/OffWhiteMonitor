@@ -1,4 +1,4 @@
-# !!!!! DOESNT WORK !!!!!
+# !!!!! DOESNT WORK !!!!! - A Cloudfare bypass needs to be addeded
 
 
 
