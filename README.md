@@ -1,4 +1,4 @@
-# Does not work on OFF---WHITE's new website.
+# ! Doesn't work since OFF---WHITE's has now a new website...
 
 
 
