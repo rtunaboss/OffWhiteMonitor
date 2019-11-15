@@ -1,4 +1,4 @@
-# !!!!! DOESNT WORK !!!!! - A Cloudfare bypass needs to be addeded
+# Does not work on OFF---WHITE's new website.
 
 
 
